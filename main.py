@@ -245,5 +245,5 @@ async def clear(ctx, number:int):
   
 
 
-bot.run("ODE0NjE3ODI5Njk3NTE5NjU3.YDgd-Q.FKUuuBxexPQHWlqyO6GLHdxirLQ")
+bot.run(TOKEN)
 
